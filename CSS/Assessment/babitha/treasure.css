@@ -1,0 +1,69 @@
+
+   
+.img{
+    position: relative;
+    width: 100%;
+    
+}
+.tr{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    margin-bottom: 20%;
+    
+}
+h1{
+    color: rgb(165, 132, 78);
+    
+}
+.headerimg{
+    width: 80%;
+    height: auto;
+    
+}
+ul{
+    display: inline-block;
+    padding: 20px;
+    margin-left: 50%;
+    vertical-align: top;
+}
+li{
+    list-style-type: none;
+    float: right;
+    padding: 10px;
+}
+.container{
+    width: 100%;
+    height: auto
+}
+.welcome{
+    float: left;
+    width: 40%;
+}
+.Expedition{
+    float: left;
+    width: 60%;
+}
+.welcome p{
+    padding: 10px;
+    text-align: justify;
+    margin-inline-start: 10px;
+    vertical-align: text-top;
+    margin-left: 50px;
+}
+.icon1{
+    margin-left: 10px;
+    float: left;
+}
+.Expedition h3{
+    color:green;
+}
+.icon2{
+    float: right;
+}
+.photos{
+    display: flex;
+}
+.ph{
+    width: 30%;
+}
