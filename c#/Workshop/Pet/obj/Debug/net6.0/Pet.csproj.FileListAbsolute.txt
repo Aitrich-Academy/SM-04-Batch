@@ -1,0 +1,15 @@
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\bin\Debug\net6.0\Pet.exe
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\bin\Debug\net6.0\Pet.deps.json
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\bin\Debug\net6.0\Pet.runtimeconfig.json
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\bin\Debug\net6.0\Pet.dll
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\bin\Debug\net6.0\Pet.pdb
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.GeneratedMSBuildEditorConfig.editorconfig
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.AssemblyInfoInputs.cache
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.AssemblyInfo.cs
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.csproj.CoreCompileInputs.cache
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.sourcelink.json
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.dll
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\refint\Pet.dll
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.pdb
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\Pet.genruntimeconfig.cache
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet\obj\Debug\net6.0\ref\Pet.dll
