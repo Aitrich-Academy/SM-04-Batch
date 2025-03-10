@@ -20,7 +20,7 @@ namespace Pet_ConditionalStatements
                 ob1.id = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter the Name of the Pet");
                 ob1.petName = Console.ReadLine();
-                int choice;
+             int    choice;
                 do
                 {
                     Console.WriteLine("Choose a number Corresponding to Category from this  1.Dog\r\n    2.Cat\r\n    3.Bird\r\n    4.Fish\r\n    5.Reptile\r\n    6.Other ");

@@ -1,0 +1,66 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head><style>
+    #container{
+        width:400px;
+        height: 600px;
+        background-color: aquamarine;
+        color:blue;
+        margin: 10px;
+    }
+    #list{
+        width:200px;
+        height: 150px;
+        background-color: blueviolet;
+    }
+</style>
+<body>
+    <div id="container">
+        <h1>SHOPPING LIST OF ADILA FRUITS</h1>
+        <div id="list">
+            <ul>
+                <li>Apple</li>
+                <li>Orange</li>
+                <li>Grapes</li>
+                <li>Guava</li>
+                <li>Banana</li>
+                <li>Kiwi</li>
+                <li>Pomegranate</li>
+            </ul>
+        </div><div id="tot">  <button >Total Quantity Selected</button></div>
+
+        Itemname from list:<input type="text" name="item" id="inputitem"><br><br>
+        QUantity:<input type="number" id="quantity"><br><br>
+        <button id="additembutton" onclick="showitems()">
+            Add Item
+        </button>
+        <div id="display"><h1>shopping list</h1><ul id="shoppinglist"></ul>
+      </div>
+    </div>
+    <script>
+        function showitems(){
+            var item=document.getElementById('inputitem').value;
+            var qua=document.getElementById('quantity').value;
+            var para1=document.createElement('li');
+            var para2=document.createElement('li');
+            
+            
+            para1.textContent=item;
+            para1.style.color="red";
+            para1.style.backgroundColor='blue';
+            para2.textContent=qua;
+            para2.style.backgroundColor="yellow";
+            var button=document.createElement('button');
+            button.textContent="remove items";
+
+            var maindiv=document.getElementById('display');
+            maindiv.appendChild(para1);
+            maindiv.appendChild(para2);
+        }
+
+    </script>
+</body>
+</html>

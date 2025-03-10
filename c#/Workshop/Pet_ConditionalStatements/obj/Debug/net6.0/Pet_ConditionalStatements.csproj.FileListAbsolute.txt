@@ -1,0 +1,5 @@
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet_ConditionalStatements\obj\Debug\net6.0\Pet_ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet_ConditionalStatements\obj\Debug\net6.0\Pet_ConditionalStatements.AssemblyInfoInputs.cache
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet_ConditionalStatements\obj\Debug\net6.0\Pet_ConditionalStatements.AssemblyInfo.cs
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet_ConditionalStatements\obj\Debug\net6.0\Pet_ConditionalStatements.csproj.CoreCompileInputs.cache
+D:\sm-04 git\SM-04-Batch\c#\Workshop\Pet_ConditionalStatements\obj\Debug\net6.0\Pet_ConditionalStatements.sourcelink.json
