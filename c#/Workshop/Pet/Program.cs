@@ -1,21 +1,33 @@
-﻿using System;
-
-namespace Pet
+﻿internal class Program
 {
-    internal class Program
+    struct Employee
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            string petName;
-            int age;
+        public int Id;
+        public string Name;
+        public int salary;
 
-            Console.WriteLine("Enter the name of Pet");
-            petName = Console.ReadLine();
-            Console.WriteLine("Enter the Age of Pet");
-            age = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("The Name:{0}\n Age of Pet:{1}", petName, age);
-            Console.ReadLine();
+        public Employee(int id, string name, int salary)
+        {
+            Id = id;
+            Name = name;
+            salary = salary;
         }
+       public void Display()
+        {
+            Console.WriteLine("Employee Id: " + Id);
+            Console.WriteLine("Employee Name: " + Name);
+            Console.WriteLine("Employee Salary: " + salary);
+        }
+    }
+
+    
+
+    private static void Main(string[] args)
+    {
+       
+        Employee e1 = new Employee(1, "Raj", 10000);
+         e1.Display();
+
+
     }
 }
