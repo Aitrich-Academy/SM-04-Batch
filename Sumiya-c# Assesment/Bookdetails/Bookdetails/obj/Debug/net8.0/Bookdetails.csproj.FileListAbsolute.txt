@@ -1,0 +1,14 @@
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\bin\Debug\net8.0\Bookdetails.exe
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\bin\Debug\net8.0\Bookdetails.deps.json
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\bin\Debug\net8.0\Bookdetails.runtimeconfig.json
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\bin\Debug\net8.0\Bookdetails.dll
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\bin\Debug\net8.0\Bookdetails.pdb
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.AssemblyInfoInputs.cache
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.AssemblyInfo.cs
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.csproj.CoreCompileInputs.cache
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.dll
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\refint\Bookdetails.dll
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.pdb
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\Bookdetails.genruntimeconfig.cache
+C:\Users\Sumiya\source\repos\Bookdetails\Bookdetails\obj\Debug\net8.0\ref\Bookdetails.dll

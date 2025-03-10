@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQ72fZJxmIk=",
+  "success": true,
+  "projectFilePath": "D:\\sm-04 git\\SM-04-Batch\\c#\\Workshop\\PetsApp_Arrays\\PetsApp_Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sumiya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Sumiya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Sumiya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Sumiya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
