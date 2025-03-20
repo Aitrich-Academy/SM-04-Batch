@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babitha\\source\\repos\\abstractclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|c:\\users\\babitha\\source\\repos\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|c:\\users\\babitha\\source\\repos\\abstractclass\\abstractclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|solutionrelative:abstractclass\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|c:\\users\\babitha\\source\\repos\\abstractclass\\abstractclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36CB0FA-3511-4AB0-A027-C7BC5EDF1AD2}|abstractclass\\abstractclass.csproj|solutionrelative:abstractclass\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Dog.cs",
+              "RelativeDocumentMoniker": "abstractclass\\Dog.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Dog.cs",
+              "RelativeToolTip": "abstractclass\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:21:46.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Animal.cs",
+              "RelativeDocumentMoniker": "abstractclass\\Animal.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Animal.cs",
+              "RelativeToolTip": "abstractclass\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T09:21:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Program.cs",
+              "RelativeDocumentMoniker": "abstractclass\\Program.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\abstractclass\\abstractclass\\Program.cs",
+              "RelativeToolTip": "abstractclass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:58:53.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

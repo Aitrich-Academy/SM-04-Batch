@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\bin\Debug\net8.0\inheritanceanimal.exe
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\bin\Debug\net8.0\inheritanceanimal.deps.json
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\bin\Debug\net8.0\inheritanceanimal.runtimeconfig.json
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\bin\Debug\net8.0\inheritanceanimal.dll
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\bin\Debug\net8.0\inheritanceanimal.pdb
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.AssemblyInfo.cs
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.dll
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\refint\inheritanceanimal.dll
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.pdb
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\inheritanceanimal.genruntimeconfig.cache
+C:\Users\babitha\source\repos\inheritanceanimal\inheritanceanimal\obj\Debug\net8.0\ref\inheritanceanimal.dll
