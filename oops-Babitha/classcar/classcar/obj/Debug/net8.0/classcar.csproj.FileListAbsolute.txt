@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\classcar\classcar\bin\Debug\net8.0\classcar.exe
+C:\Users\babitha\source\repos\classcar\classcar\bin\Debug\net8.0\classcar.deps.json
+C:\Users\babitha\source\repos\classcar\classcar\bin\Debug\net8.0\classcar.runtimeconfig.json
+C:\Users\babitha\source\repos\classcar\classcar\bin\Debug\net8.0\classcar.dll
+C:\Users\babitha\source\repos\classcar\classcar\bin\Debug\net8.0\classcar.pdb
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.AssemblyInfo.cs
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.dll
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\refint\classcar.dll
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.pdb
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\classcar.genruntimeconfig.cache
+C:\Users\babitha\source\repos\classcar\classcar\obj\Debug\net8.0\ref\classcar.dll

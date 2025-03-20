@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\classconstructor\classconstructor\bin\Debug\net8.0\classconstructor.exe
+C:\Users\babitha\source\repos\classconstructor\classconstructor\bin\Debug\net8.0\classconstructor.deps.json
+C:\Users\babitha\source\repos\classconstructor\classconstructor\bin\Debug\net8.0\classconstructor.runtimeconfig.json
+C:\Users\babitha\source\repos\classconstructor\classconstructor\bin\Debug\net8.0\classconstructor.dll
+C:\Users\babitha\source\repos\classconstructor\classconstructor\bin\Debug\net8.0\classconstructor.pdb
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.AssemblyInfo.cs
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.dll
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\refint\classconstructor.dll
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.pdb
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\classconstructor.genruntimeconfig.cache
+C:\Users\babitha\source\repos\classconstructor\classconstructor\obj\Debug\net8.0\ref\classconstructor.dll

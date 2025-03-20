@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\bin\Debug\net8.0\Basic Interface Implementation.exe
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\bin\Debug\net8.0\Basic Interface Implementation.deps.json
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\bin\Debug\net8.0\Basic Interface Implementation.runtimeconfig.json
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\bin\Debug\net8.0\Basic Interface Implementation.dll
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\bin\Debug\net8.0\Basic Interface Implementation.pdb
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.AssemblyInfo.cs
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.dll
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\refint\Basic Interface Implementation.dll
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.pdb
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\Basic Interface Implementation.genruntimeconfig.cache
+C:\Users\babitha\source\repos\Basic Interface Implementation\Basic Interface Implementation\obj\Debug\net8.0\ref\Basic Interface Implementation.dll

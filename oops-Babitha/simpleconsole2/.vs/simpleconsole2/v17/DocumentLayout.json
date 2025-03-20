@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|c:\\users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|solutionrelative:simpleconsole2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|c:\\users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|solutionrelative:simpleconsole2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|c:\\users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|solutionrelative:simpleconsole2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|c:\\users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F73250E-E13C-4FB8-ABE4-444DC2F234C5}|simpleconsole2\\simpleconsole2.csproj|solutionrelative:simpleconsole2\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Person.cs",
+              "RelativeDocumentMoniker": "simpleconsole2\\Person.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Person.cs",
+              "RelativeToolTip": "simpleconsole2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:59:31.855Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Manager.cs",
+              "RelativeDocumentMoniker": "simpleconsole2\\Manager.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Manager.cs",
+              "RelativeToolTip": "simpleconsole2\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:52:19.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Employee.cs",
+              "RelativeDocumentMoniker": "simpleconsole2\\Employee.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Employee.cs",
+              "RelativeToolTip": "simpleconsole2\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:45:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Program.cs",
+              "RelativeDocumentMoniker": "simpleconsole2\\Program.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\simpleconsole2\\simpleconsole2\\Program.cs",
+              "RelativeToolTip": "simpleconsole2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:42:32.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\Classexample\Classexample\bin\Debug\net8.0\Classexample.exe
+C:\Users\babitha\source\repos\Classexample\Classexample\bin\Debug\net8.0\Classexample.deps.json
+C:\Users\babitha\source\repos\Classexample\Classexample\bin\Debug\net8.0\Classexample.runtimeconfig.json
+C:\Users\babitha\source\repos\Classexample\Classexample\bin\Debug\net8.0\Classexample.dll
+C:\Users\babitha\source\repos\Classexample\Classexample\bin\Debug\net8.0\Classexample.pdb
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.AssemblyInfo.cs
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.dll
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\refint\Classexample.dll
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.pdb
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\Classexample.genruntimeconfig.cache
+C:\Users\babitha\source\repos\Classexample\Classexample\obj\Debug\net8.0\ref\Classexample.dll

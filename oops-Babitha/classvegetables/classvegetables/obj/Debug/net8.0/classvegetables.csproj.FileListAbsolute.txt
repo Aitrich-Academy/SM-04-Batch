@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\classvegetables\classvegetables\bin\Debug\net8.0\classvegetables.exe
+C:\Users\babitha\source\repos\classvegetables\classvegetables\bin\Debug\net8.0\classvegetables.deps.json
+C:\Users\babitha\source\repos\classvegetables\classvegetables\bin\Debug\net8.0\classvegetables.runtimeconfig.json
+C:\Users\babitha\source\repos\classvegetables\classvegetables\bin\Debug\net8.0\classvegetables.dll
+C:\Users\babitha\source\repos\classvegetables\classvegetables\bin\Debug\net8.0\classvegetables.pdb
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.AssemblyInfo.cs
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.dll
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\refint\classvegetables.dll
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.pdb
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\classvegetables.genruntimeconfig.cache
+C:\Users\babitha\source\repos\classvegetables\classvegetables\obj\Debug\net8.0\ref\classvegetables.dll

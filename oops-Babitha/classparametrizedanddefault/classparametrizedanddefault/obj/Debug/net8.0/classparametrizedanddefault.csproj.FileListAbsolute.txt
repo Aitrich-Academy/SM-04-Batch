@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\bin\Debug\net8.0\classparametrizedanddefault.exe
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\bin\Debug\net8.0\classparametrizedanddefault.deps.json
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\bin\Debug\net8.0\classparametrizedanddefault.runtimeconfig.json
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\bin\Debug\net8.0\classparametrizedanddefault.dll
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\bin\Debug\net8.0\classparametrizedanddefault.pdb
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.AssemblyInfo.cs
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.dll
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\refint\classparametrizedanddefault.dll
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.pdb
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\classparametrizedanddefault.genruntimeconfig.cache
+C:\Users\babitha\source\repos\classparametrizedanddefault\classparametrizedanddefault\obj\Debug\net8.0\ref\classparametrizedanddefault.dll

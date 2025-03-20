@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\babitha\\source\\repos\\classcar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F778EB58-4829-49C0-B35F-186B52008FF2}|classcar\\classcar.csproj|c:\\users\\babitha\\source\\repos\\classcar\\classcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F778EB58-4829-49C0-B35F-186B52008FF2}|classcar\\classcar.csproj|solutionrelative:classcar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F778EB58-4829-49C0-B35F-186B52008FF2}|classcar\\classcar.csproj|c:\\users\\babitha\\source\\repos\\classcar\\classcar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F778EB58-4829-49C0-B35F-186B52008FF2}|classcar\\classcar.csproj|solutionrelative:classcar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\classcar\\classcar\\Car.cs",
+              "RelativeDocumentMoniker": "classcar\\Car.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\classcar\\classcar\\Car.cs",
+              "RelativeToolTip": "classcar\\Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:54:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\babitha\\source\\repos\\classcar\\classcar\\Program.cs",
+              "RelativeDocumentMoniker": "classcar\\Program.cs",
+              "ToolTip": "C:\\Users\\babitha\\source\\repos\\classcar\\classcar\\Program.cs",
+              "RelativeToolTip": "classcar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:52:37.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
