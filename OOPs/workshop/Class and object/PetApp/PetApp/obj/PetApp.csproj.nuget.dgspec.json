@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TRAINING\\test\\.NETbootcamp\\-ASP-Net-Core-.NetCore-SM-03\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj": {}
+    "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj": {}
   },
   "projects": {
-    "D:\\TRAINING\\test\\.NETbootcamp\\-ASP-Net-Core-.NetCore-SM-03\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj": {
+    "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TRAINING\\test\\.NETbootcamp\\-ASP-Net-Core-.NetCore-SM-03\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj",
+        "projectUniqueName": "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj",
         "projectName": "PetApp",
-        "projectPath": "D:\\TRAINING\\test\\.NETbootcamp\\-ASP-Net-Core-.NetCore-SM-03\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj",
-        "packagesPath": "C:\\Users\\KDN\\.nuget\\packages\\",
-        "outputPath": "D:\\TRAINING\\test\\.NETbootcamp\\-ASP-Net-Core-.NetCore-SM-03\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\obj\\",
+        "projectPath": "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\PetApp.csproj",
+        "packagesPath": "C:\\Users\\babitha\\.nuget\\packages\\",
+        "outputPath": "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Class and object\\PetApp\\PetApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\KDN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\babitha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
