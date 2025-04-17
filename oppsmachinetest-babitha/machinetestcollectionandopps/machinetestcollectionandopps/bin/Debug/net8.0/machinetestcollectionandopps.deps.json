@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "machinetestcollectionandopps/1.0.0": {
+        "runtime": {
+          "machinetestcollectionandopps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "machinetestcollectionandopps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

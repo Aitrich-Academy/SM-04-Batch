@@ -1,0 +1,14 @@
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\bin\Debug\net8.0\machinetestcollectionandopps.exe
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\bin\Debug\net8.0\machinetestcollectionandopps.deps.json
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\bin\Debug\net8.0\machinetestcollectionandopps.runtimeconfig.json
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\bin\Debug\net8.0\machinetestcollectionandopps.dll
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\bin\Debug\net8.0\machinetestcollectionandopps.pdb
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.AssemblyInfoInputs.cache
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.AssemblyInfo.cs
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.csproj.CoreCompileInputs.cache
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.dll
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\refint\machinetestcollectionandopps.dll
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.pdb
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\machinetestcollectionandopps.genruntimeconfig.cache
+C:\Users\babitha\source\repos\machinetestcollectionandopps\machinetestcollectionandopps\obj\Debug\net8.0\ref\machinetestcollectionandopps.dll
