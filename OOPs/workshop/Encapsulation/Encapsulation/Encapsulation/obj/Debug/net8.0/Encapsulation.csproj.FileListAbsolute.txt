@@ -1,0 +1,15 @@
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\sm-04 git\SM-04-Batch\OOPs\workshop\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

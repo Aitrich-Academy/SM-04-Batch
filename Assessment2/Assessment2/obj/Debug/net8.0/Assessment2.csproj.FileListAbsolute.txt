@@ -1,0 +1,29 @@
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.exe
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.deps.json
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.runtimeconfig.json
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.dll
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.pdb
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfoInputs.cache
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfo.cs
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.csproj.CoreCompileInputs.cache
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.dll
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\refint\Assessment2.dll
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.pdb
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.genruntimeconfig.cache
+C:\Users\Sumiya\source\repos\Assessment2\Assessment2\obj\Debug\net8.0\ref\Assessment2.dll
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.exe
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.deps.json
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.runtimeconfig.json
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.dll
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\bin\Debug\net8.0\Assessment2.pdb
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfoInputs.cache
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.AssemblyInfo.cs
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.csproj.CoreCompileInputs.cache
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.sourcelink.json
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.dll
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\refint\Assessment2.dll
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.pdb
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\Assessment2.genruntimeconfig.cache
+D:\sm-04 git\SM-04-Batch\Assessment2\Assessment2\obj\Debug\net8.0\ref\Assessment2.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\Activity\\MVCCourse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8850CEB7-2DC5-439F-9673-219744FFF45B}|WebApp\\WebApp.csproj|d:\\training\\test\\.netbootcamp\\sm-materials\\sm-materials\\mvc\\workshop\\activity\\mvccourse\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8850CEB7-2DC5-439F-9673-219744FFF45B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\Activity\\MVCCourse\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\Activity\\MVCCourse\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:55:31.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

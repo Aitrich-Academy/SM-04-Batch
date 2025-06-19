@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\training\\test\\.netbootcamp\\sm-materials\\sm-materials\\mvc\\workshop\\mvc_pet_app\\mvc_pet_app\\migrations\\20250609110245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\migrations\\20250609110245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\training\\test\\.netbootcamp\\sm-materials\\sm-materials\\mvc\\workshop\\mvc_pet_app\\mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\training\\test\\.netbootcamp\\sm-materials\\sm-materials\\mvc\\workshop\\mvc_pet_app\\mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|d:\\training\\test\\.netbootcamp\\sm-materials\\sm-materials\\mvc\\workshop\\mvc_pet_app\\mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250609110245_first.cs",
+              "DocumentMoniker": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "ToolTip": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:02:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetContext.cs",
+              "DocumentMoniker": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ToolTip": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:59:14.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Program.cs",
+              "ToolTip": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:58:45.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\appsettings.json",
+              "ToolTip": "D:\\TRAINING\\test\\.NETbootcamp\\SM-materials\\SM-Materials\\MVC\\WorkShop\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeToolTip": "MVc_Pet_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T10:58:30.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

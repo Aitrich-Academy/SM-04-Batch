@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVc_Pet_App",
+    "\\MVc_Pet_App\\MVc_Pet_App",
+    "\\MVc_Pet_App\\MVc_Pet_App\\Data",
+    "\\MVc_Pet_App\\MVc_Pet_App\\Migrations",
+    "\\MVc_Pet_App\\MVc_Pet_App\\Models",
+    "\\MVc_Pet_App\\MVc_Pet_App\\Views",
+    "\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet"
+  ],
+  "SelectedNode": "\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+  "PreviewInSolutionExplorer": false
+}

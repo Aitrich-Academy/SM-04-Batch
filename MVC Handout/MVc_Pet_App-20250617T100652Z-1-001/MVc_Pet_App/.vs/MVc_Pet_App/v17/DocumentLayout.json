@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\data\\petdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\views\\pet\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\migrations\\20250609110245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\migrations\\20250609110245_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|c:\\users\\sumiya\\downloads\\mvc_pet_app-20250617t100652z-1-001\\mvc_pet_app\\mvc_pet_app\\migrations\\20250617105308_kkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD70B44-6F5A-4F51-8238-82926C8C8C0D}|MVc_Pet_App\\MVc_Pet_App.csproj|solutionrelative:mvc_pet_app\\migrations\\20250617105308_kkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250617105308_kkk.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250617105308_kkk.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Migrations\\20250617105308_kkk.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250617105308_kkk.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Migrations\\20250617105308_kkk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:53:08.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetContext.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:59:14.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:58:03.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "RelativeToolTip": "MVc_Pet_App\\Views\\Pet\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T10:58:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250609110245_first.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Migrations\\20250609110245_first.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:02:46.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Data\\PetDTO.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Data\\PetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:30:08.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Controllers\\PetController.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Controllers\\PetController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:29:30.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\Program.cs",
+              "RelativeToolTip": "MVc_Pet_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:58:45.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeDocumentMoniker": "MVc_Pet_App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sumiya\\Downloads\\MVc_Pet_App-20250617T100652Z-1-001\\MVc_Pet_App\\MVc_Pet_App\\appsettings.json",
+              "RelativeToolTip": "MVc_Pet_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T10:58:30.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
