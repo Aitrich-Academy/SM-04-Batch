@@ -5,6 +5,6 @@ namespace MVC_Auth.Interface
     public interface IUserService
     {
         Task<bool> RegisterUserAsync(RegisterDto registerDto);
-        Task<UseDto> LoginAsync(LoginDto loginDto);
+        Task<UserDto> LoginAsync(LoginDto loginDto);
     }
 }

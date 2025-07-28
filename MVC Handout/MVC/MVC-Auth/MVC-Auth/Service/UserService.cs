@@ -36,7 +36,7 @@ namespace MVC_Auth.Service
             return true;
         }
 
-        public async Task<UseDto> LoginAsync(LoginDto loginDto)
+        public async Task<UserDto> LoginAsync(LoginDto loginDto)
         {
             var user = await _userRepository.GetUserByEmailAsync(loginDto.Email);
             if (user == null || !BCrypt.Net.BCrypt.Verify(loginDto.Password, user.PasswordHash))
@@ -44,7 +44,7 @@ namespace MVC_Auth.Service
                 return null;
             }
 
-            return _mapper.Map<UseDto>(user);
+            return _mapper.Map<UserDto>(user);
         }
     }
 }

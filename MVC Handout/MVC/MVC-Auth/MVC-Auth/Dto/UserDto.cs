@@ -1,6 +1,6 @@
 ﻿namespace MVC_Auth.Dto
 {
-    public class UseDto
+    public class UserDto
     {
         public int Id { get; set; }
         public string Name { get; set; }

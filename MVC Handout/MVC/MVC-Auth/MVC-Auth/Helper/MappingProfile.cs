@@ -8,7 +8,7 @@ namespace MVC_Auth.Helper
     {
         public MappingProfile() 
         {
-            CreateMap<User, UseDto>().ReverseMap();
+            CreateMap<User, UserDto>().ReverseMap();
         }
     }
 }
