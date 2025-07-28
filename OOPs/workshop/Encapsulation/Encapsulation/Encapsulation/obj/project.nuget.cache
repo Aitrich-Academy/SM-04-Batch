@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "/O+Xgp7P7p8=",
+  "dgSpecHash": "1A7e/cZUHps=",
   "success": true,
-  "projectFilePath": "D:\\sm-04 git\\SM-04-Batch\\OOPs\\workshop\\Encapsulation\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+  "projectFilePath": "E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Encapsulation\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\sm04git\\SM-04-Batch\\OOPs\\workshop\\Encapsulation\\Encapsulation\\Encapsulation\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
